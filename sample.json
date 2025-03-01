@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Virat Kohli reveals emotions on return to cricket after 2-month break: 'Haven't been off the media radar' - Hindustan Times",
+      "description": "Virat Kohli last played a competitive match in January this year and will be looking to make a mark in the IPL with the T20 World Cup around the corner. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/virat-kohli-reveals-emotions-on-return-to-cricket-after-2-month-break-havent-been-off-the-media-radar-101710770961503.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/18/1600x900/PTI03-18-2024-000121A-0_1710772688856_1710772713169.jpg",
+      "publishedAt": "2024-03-18T14:45:51Z",
+      "content": "Virat Kohli took the field at the Chinnaswamy Stadium in Bengaluru on Monday for the first time since he last played a competitive cricket match in January this year. Kohli joined the rest of the Roy… [+2489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Ex-Delhi Minister Back To Jail After Supreme Court Rejects Bail Request - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2024-03-18T13:34:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Sports Desk",
+      "title": "Rajasthan Royals' Jethalal post leads meme fest as women's team ends RCB's 16-year title drought - The Times of India",
+      "description": "Cricket News: A clinical Royal Challengers Bangalore won the Women's Premier League 2024 title with an eight-wicket victory over Delhi Capitals in the final on Sund",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/wpl/rajasthan-royals-jethalal-post-leads-meme-fest-as-womens-team-ends-rcbs-16-year-title-drought/articleshow/108589116.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-108589330,width-1070,height-580,imgsize-80960,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-03-18T11:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricket.one"
+      },
+      "author": "Ritam",
+      "title": "[Watch] Rashid Khan's MS Dhoni-Esque No-Look Six Vs Ireland Wows IPL 2024 Fans - OneCricket",
+      "description": "In a recent training video, CSK’s immortal man, MS Dhoni, pulled off a no-look six that went viral in no time. Rashid Khan produced a similar show on Sunday during Afghanistan’s do-or-die T20I match against Ireland, and it was Barry McCarthy who was at the re…",
+      "url": "https://cricket.one/match-hub/watch-rashid-khans-ms-dhoni-esque-no-look-six-vs-ireland-wows-ipl-2024-fans/65f7bc4024ec3d27224824f1",
+      "urlToImage": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1710733187147_Work - OC (1).jpg",
+      "publishedAt": "2024-03-18T04:00:00Z",
+      "content": "Rashid Khan hitting no-look six against McCarthy (X.com)\r\nIn a recent training video, CSKs immortal man, MS Dhoni, pulled off a no-look six that went viral in no time.\r\nRashid Khan produced a similar… [+1089 chars]"
+    }
+  ]
+}
