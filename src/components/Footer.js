@@ -5,7 +5,7 @@ export default class footer extends Component {
     return (
       <div>
         <footer class="d-flex align-items-center justify-content-center">
-            <p class="my-3">Developed by Yogesh Karthik Mudaliar</p>
+            <p class="my-3">Developed and maintained by Yogesh Karthik Mudaliar</p>
         </footer>
       </div>
     )
